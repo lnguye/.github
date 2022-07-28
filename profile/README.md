@@ -15,7 +15,7 @@
 # Contact Details
 | Group Member		| email								| discord															| github								|
 |-------------------|-----------------------------------|-------------------------------------------------------------------|---------------------------------------|
-|Lam Nguyen			|									|																	|										|
+|Lam Nguyen			|	a1804336@student.adelaide.edu.au | Louie2k#8834 |	[lnguye](https://github.com/lnguye) |
 |Callum Parsey		| callum.parsey@student.adelaide.edu.au | [neoninteger#6152](https://discord.com/users/455121440564576268) | [neoninteger](https://github.com/neoninteger) |
 |Huey Pretila		| a1799846@student.adelaide.edu.au | Huey |	[hpretila](https://github.com/hpretila)	|
 |Thomas Redding		|									|																	|										|
