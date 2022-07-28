@@ -16,7 +16,7 @@
 | Group Member		| email								| discord															| github								|
 |-------------------|-----------------------------------|-------------------------------------------------------------------|---------------------------------------|
 |Lam Nguyen			|									|																	|										|
-|Callum Parsey		|									|																	|										|
+|Callum Parsey		| callum.parsey@student.adelaide.edu.au | [neoninteger#6152](https://discord.com/users/455121440564576268) | [neoninteger](https://github.com/neoninteger) |
 |Huey Pretila		| a1799846@student.adelaide.edu.au | Huey |	[hpretila](https://github.com/hpretila)	|
 |Thomas Redding		|									|																	|										|
 |Stuart Riddell		| a1688820@student.adelaide.edu.au | [Stewie#1255](https://discordapp.com/users/455121440564576268)		| [traunts](https://github.com/traunts)	|
